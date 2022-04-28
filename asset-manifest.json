@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/joke-card/static/css/main.438dcb7d.css",
+    "main.js": "/joke-card/static/js/main.dc317ce5.js",
+    "index.html": "/joke-card/index.html",
+    "main.438dcb7d.css.map": "/joke-card/static/css/main.438dcb7d.css.map",
+    "main.dc317ce5.js.map": "/joke-card/static/js/main.dc317ce5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.438dcb7d.css",
+    "static/js/main.dc317ce5.js"
+  ]
+}
