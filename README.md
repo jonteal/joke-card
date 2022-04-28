@@ -50,7 +50,7 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 
 ## Links
 
-* Deployed Link at GH Pages: 
+* Deployed Link at GH Pages: https://jonteal.github.io/joke-card/
 * Github Repository: https://github.com/jonteal/joke-card
 
 
