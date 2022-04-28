@@ -57,6 +57,8 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 <a name="credits"></a>
 
 ## Resources / Credits
-* Bored API: https://www.boredapi.com/
+* Joke API: https://v2.jokeapi.dev/joke/Any?safe-mode
+
+* Card Flip - W3Schools: https://www.w3schools.com/howto/howto_css_flip_card.asp
 
 * Button animation: Simple CSS Button Hover Effects - Natalia Reshetnikova - CodePen
